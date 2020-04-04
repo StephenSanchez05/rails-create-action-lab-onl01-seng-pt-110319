@@ -18,6 +18,4 @@ class StudentsController < ApplicationController
     @student.save
   end
 
-  end
-
 end
